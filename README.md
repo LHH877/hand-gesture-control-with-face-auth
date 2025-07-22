@@ -11,22 +11,23 @@ This project combines real-time hand gesture recognition with facial authenticat
 - Real-time data storage and authentication via **Firebase**
 - Rule-based algorithm for gesture classification
 
-### Real-Time Hand Gesture Recognition
-<img src="path/to/image1.png" width="400"/>
-
-The system detects finger gestures using MediaPipe and overlays keypoints in real time.
-
----
 
 ### Facial Recognition with Role Detection
-<img src="path/to/image2.png" width="400"/>
+<img src="hand-gesture-control-with-face-auth/ImagesForDemo/image2.png" width="400"/>
 
 Facial recognition identifies registered users and displays their name and department.
 
 ---
 
+### Real-Time Hand Gesture Recognition
+<img src="hand-gesture-control-with-face-auth/ImagesForDemo/image1.png" width="400"/>
+
+The system detects finger gestures using MediaPipe and overlays keypoints in real time.
+
+---
+
 ### Realtime Firebase Activity Logging
-<img src="path/to/image3.png" width="400"/>
+<img src="hand-gesture-control-with-face-auth/ImagesForDemo/image3.png" width="400"/>
 
 Gesture changes are logged in Firebase with timestamps and user identity.
 
