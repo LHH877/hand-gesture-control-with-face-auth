@@ -13,14 +13,14 @@ This project combines real-time hand gesture recognition with facial authenticat
 
 
 ### Facial Recognition with Role Detection
-<img src="hand-gesture-control-with-face-auth/ImagesForDemo/image2.png" width="400"/>
+<img src="hand-gesture-control-with-face-auth/ImagesForDemo/image1.png" width="400"/>
 
 Facial recognition identifies registered users and displays their name and department.
 
 ---
 
 ### Real-Time Hand Gesture Recognition
-<img src="hand-gesture-control-with-face-auth/ImagesForDemo/image1.png" width="400"/>
+<img src="hand-gesture-control-with-face-auth/ImagesForDemo/image2.png" width="400"/>
 
 The system detects finger gestures using MediaPipe and overlays keypoints in real time.
 
